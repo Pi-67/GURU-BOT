@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "PIYUSH_AI_GEN_3",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -39,18 +39,18 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "true"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
